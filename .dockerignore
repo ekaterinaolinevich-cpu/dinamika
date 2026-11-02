@@ -1,0 +1,10 @@
+node_modules
+data
+shots
+tools
+.npm-cache
+.chrome-profile
+ocr/vendor
+.git
+*.log
+.DS_Store
